@@ -12,6 +12,11 @@ description: Blog personal
 avatar: https://github.com/uliseschialva/uliseschialva.github.io/blob/master/0Z1o0.png?raw=true
 
 #https://uliseschialva.github.io/cv-online/foto_perfil.png
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/
+
 
 #
 # Flags below are optional
