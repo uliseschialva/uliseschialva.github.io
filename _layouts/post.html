@@ -19,6 +19,15 @@ layout: default
     {{ content }}
   </div>
 
+{% for tag in post.tags %}
+  {% assign tag_slug = tag | slugify: "raw" %}
+  <a class="tag-link"
+    href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+    rel="category tag">
+    #{{ tag }}
+  </a>
+{% endfor %}
+  
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
