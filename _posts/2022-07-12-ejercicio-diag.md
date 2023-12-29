@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Diagonalización de Proyectores e Involuciones
-tag: linearalgebra
 ---
 
 <p align= "justify"> En esta entrada estudiaremos dos tipos básicos de transformaciones lineales y probaremos que
