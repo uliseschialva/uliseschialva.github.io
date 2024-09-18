@@ -3,15 +3,15 @@ layout: page
 title: Sobre mí
 permalink: /about/
 ---
+<p style="text-align:justify;">Hi there! my name is Ulises and I live in Bahía Blanca, Argentina. I'm a father to a beautiful girl and I've been working as a professional mathematician since 2015 (and my Erdös number is five).
 
-<p style="text-align:justify;"> Soy investigador y docente de Matemáticas. Actualmente poseo una posición postdoctoral en <a href="https://www.conicet.gov.ar/">CONICET</a>, y me desempeño como investigador y docente en el <a href = "https://www.matematica.uns.edu.ar/default.php">Departamento de Matemática</a> de la <a href="https://uns.edu.ar">Universidad Nacional del Sur</a>.</p>
+I have a strong love for mathematics: its theories, history, and philosophy. However, I also have a restless mind: literature, music and politics complete my interests. 
 
-Aquí pueden ver mi <a href = "https://sites.google.com/view/uchialva/">página personal</a>.
+Currently, I am involved in research within the realm of applied neurocomputational models, while holding a full-time position as a Professor and Researcher in the <a href = "https://www.matematica.uns.edu.ar/default.php">Department of Mathematics<\a> at the <a href="https://uns.edu.ar">Universidad Nacional del Sur</a>.</p>
 
-### Sobre este sitio
+### Short CV
+<p style="text-align:justify;"> <a href = "https://servicios.uns.edu.ar/intrauns/consultas/personal/curriculum/cvitae_ingles/ver_curri.asp?docu=C14214.pdf%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&nombre=CHIALVA%20%20%20%20%20%20%20%20%20%20%20%20%20,%20ULISES">Complete CV</a> (in spanish)</p>
 
-<p style="text-align:justify;">El objetivo es exponer distintas experiencias y reflexiones sobre el quehacer científico en general, y el matemático en particular.</p>
-
-### Contacto
+### Contact
 
 [uchialva@gmail.com](mailto:uchialva@gmail.com)
