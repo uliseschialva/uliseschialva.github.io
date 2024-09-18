@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mí
+title: Research
 permalink: /research/
 ---
 
