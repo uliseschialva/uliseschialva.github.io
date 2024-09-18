@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-   <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -31,15 +31,14 @@
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/research">Research</a>
             <a href="{{ site.baseurl }}/publications">Publications</a>
-            <a href="{{ site.baseurl }}/teaching">Teaching (docencia)</a>
+            <a href="{{ site.baseurl }}/teaching">Teaching</a>
           </nav>
         </header>
       </div>
     </div>
 
-       <div id="main" role="main" class="container">
+    <div id="main" role="main" class="container">
       {{ content }}
-
     </div>
 
     <div class="wrapper-footer">
@@ -48,8 +47,11 @@
           {% include svg-icons.html %}
         </footer>
       </div>
-    </div>
+      <!-- Script -->
+      {% include script.html %}
 
+    </div>
+    
     {% include analytics.html %}
   </body>
 </html>
