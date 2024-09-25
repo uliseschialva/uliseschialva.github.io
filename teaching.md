@@ -8,7 +8,7 @@ permalink: /teaching/
 
 <p style="text-align:justify;"><i>Aclaración: no abriré fecha de final de ninguna materia, hasta que finalice el primer cuatrimestre de haber dictado la materia.</i></p>
 
-# 2024
+### 2024
 <ul>
 <li> Segundo cuatrimestre: Matemática II Arq.</li>
 </ul>
