@@ -61,7 +61,7 @@ permalink: /:title/
 defaults:
   - scope:
       path: ""
-      type: "home"# "pages"
+      type: "pages"
     values:
       layout: "about"
 
