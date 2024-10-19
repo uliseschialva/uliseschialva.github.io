@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Sobre mí
+layout: page
+title: Blog
 permalink: /blog/
 ---
 
