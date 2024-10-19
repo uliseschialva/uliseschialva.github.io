@@ -60,8 +60,8 @@ permalink: /:title/
 # Define the default layout (can be 'about', 'home', etc.)
 defaults:
   - scope:
-      path: "/index/"
-      type: "page"
+      path: ""
+      type: "pages"
     values:
       layout: "about"
 
