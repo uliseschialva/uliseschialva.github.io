@@ -10,6 +10,9 @@ permalink: /about/
 <p s style="text-indent: 20px; text-align: justify;">My primary areas of interest cover stochastic dynamics, numerical simulations, and neurocomputational systems. Simultaneously, I have specialized expertise in differential equations, signal analysis tools, and mathematical modeling.</p>
 
 ### Short CV
+<img src="https://github.com/uliseschialva/uliseschialva.github.io/blob/master/images/cv.png?raw=true" alt="visual CV">
+
+### Complete CV
 <p style="text-align:justify;"> <a href = "https://servicios.uns.edu.ar/intrauns/consultas/personal/curriculum/cvitae_ingles/ver_curri.asp?docu=C14214.pdf%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&nombre=CHIALVA%20%20%20%20%20%20%20%20%20%20%20%20%20,%20ULISES">Complete CV</a> (in spanish)</p>
 
 ### Contact
