@@ -6,7 +6,8 @@ permalink: /about/
 <p  style="text-indent: 20px; text-align: justify;">Hi there! my name is Ulises and I live in Bahía Blanca, Argentina. I'm a father to a beautiful girl and I've been working as a professional mathematician since 2015 (and my Erdös number is five). I have a strong love for mathematics: its theories, history, and philosophy. However, I also have a restless mind: literature, music and politics complete my interests. </p>
 
 My career:
-<img src="https://github.com/uliseschialva/uliseschialva.github.io/blob/master/images/cv.png?raw=true" alt="visual CV" style="max-width: 100%; height: auto;">
+<embed src="https://github.com/uliseschialva/uliseschialva.github.io/blob/master/images/visual_cv.pdf?raw=true" type="application/pdf" style="width: 100%; height: auto;">
+
 
 
 <p  style="text-indent: 20px; text-align: justify;">Currently, I am involved in research within the realm of applied neurocomputational models, while holding a full-time position as a Professor and Researcher in the <a href = "https://www.matematica.uns.edu.ar/default.php">Department of Mathematics</a> at the <a href="https://uns.edu.ar">Universidad Nacional del Sur</a>.</p>
