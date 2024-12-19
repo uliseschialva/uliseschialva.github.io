@@ -8,7 +8,7 @@ permalink: /about/
 My career:
 
 
-<img src="images/cv.png" alt="visual cv" />
+<img src="https://github.com/uliseschialva/uliseschialva.github.io/blob/master/images/cv.png" />
 
 
 
