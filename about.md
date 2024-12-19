@@ -8,10 +8,7 @@ permalink: /about/
 My career:
 
 
-<img src="https://uliseschialva.github.io/uliseschialva.github.io/images/cv.png" alt="CV timeline" />
-
-
-
+<img src="images/cv.png" alt="CV timeline" style="max-width: 100%; height: auto;" />
 
 
 <p  style="text-indent: 20px; text-align: justify;">Currently, I am involved in research within the realm of applied neurocomputational models, while holding a full-time position as a Professor and Researcher in the <a href = "https://www.matematica.uns.edu.ar/default.php">Department of Mathematics</a> at the <a href="https://uns.edu.ar">Universidad Nacional del Sur</a>.</p>
