@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching (docencia)
+title: Teaching
 permalink: /teaching/
 ---
 
