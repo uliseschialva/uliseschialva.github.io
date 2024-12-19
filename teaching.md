@@ -4,8 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<p style="text-align:justify;"><i>For my students: La información sobre mesas de exámenes, se encuentra en esta <a href="https://uliseschialva.github.io/infofinales/">página.</a>
-</i></p>
+<p style="text-align:justify;"><i>For my students: La información sobre mesas de exámenes, se encuentra en esta <a href="https://uliseschialva.github.io/infofinales/" target="_blank">página.</a></i></p>
 
 ## Recent Courses:
 
