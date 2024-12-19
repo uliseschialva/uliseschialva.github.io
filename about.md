@@ -8,7 +8,8 @@ permalink: /about/
 My career:
 
 
-<img src="https://github.com/uliseschialva/uliseschialva.github.io/blob/master/images/cv.png" />
+<img src="https://uliseschialva.github.io/uliseschialva.github.io/images/cv.png" alt="CV timeline" />
+
 
 
 
