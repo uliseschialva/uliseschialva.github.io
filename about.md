@@ -6,6 +6,8 @@ permalink: /about/
 <p  style="text-indent: 20px; text-align: justify;">Hi there! my name is Ulises and I live in Bahía Blanca, Argentina. I'm a father to a beautiful girl and I've been working as a professional mathematician since 2015 (and my Erdös number is five). I have a strong love for mathematics: its theories, history, and philosophy. However, I also have a restless mind: literature, music and politics complete my interests. </p>
 
 My career:
+
+
 <img src="images/cv.png" alt="visual cv" />
 
 
