@@ -4,14 +4,16 @@ title: Teaching (docencia)
 permalink: /teaching/
 ---
 
-## Materias de grado (undergraduate courses)
+<p style="text-align:justify;"><i>For my students: La información sobre mesas de exámenes, se encuentra en esta <a href="https://uliseschialva.github.io/infofinales/">página.</a>
+</i></p>
 
-<p style="text-align:justify;"><i>Aclaración: no abriré fecha de final de ninguna materia, hasta que finalice el primer cuatrimestre de haberla dictado.</i></p>
+## Recent Courses:
 
-### 2024
-<ul>
-<li> Segundo cuatrimestre: Matemática II Arq.</li>
-</ul>
+2024:
+Mathematics for Architecture II (Position: Professor) and Linear Algebra (Position: Senior Assistant)
+
+2023:
+Linear Algebra, Axiomatic Geometry, and Introduction to Computational Neuroscience (Position for all: Senior Assistant).
 
 ### Contacto
 
