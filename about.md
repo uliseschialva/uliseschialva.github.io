@@ -11,7 +11,6 @@ permalink: /about/
 
 ### Visual CV
 
-My career:
 <img src="/images/cv.png" alt="CV timeline" style="max-width: 100%; height: auto;" />
 
 
