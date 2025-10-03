@@ -7,6 +7,8 @@ permalink: /teaching/
 <p style="text-align:justify;"><i><b>For my students</b>: La información sobre mesas de exámenes, se encuentra en esta <a href="https://uliseschialva.github.io/infofinales/" target="_blank">página.</a></i></p>
 
 ## Recent Courses:
+2025:
+Mathematics for Architecture II (Position: Professor) and Mathematics IB & IIB for Agricultural Engineering (Position: Professor)
 
 2024:
 Mathematics for Architecture II (Position: Professor) and Linear Algebra (Position: Senior Assistant)
