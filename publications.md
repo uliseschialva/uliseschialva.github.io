@@ -9,9 +9,9 @@ permalink: /publications/
 
 <li><p style="text-align:justify;">Chialva, U. & Rotstein, H. "Interaction of segregated mechanisms of resonance due non-uniform voltage distributions across the neuron: interplay between ionic currents and the spatial structure of cell".</p></li>
 
-<li><p style="text-align:justify;">Chialva, U. & Reartes, W. "Control of a piecewise chaotic system by periodic resetting regimen".</p> <i>(Submitted)</i></li>
+<li><p style="text-align:justify;">Chialva, U. & Reartes, W. "Control of a piecewise chaotic system by periodic resetting regimen".  <i>(Submitted)</i></p></li>
 
-<li><p style = "test-align:justify;">Bel, A., Chialva, U. & Rotstein, H. "Frequency-dependent coupling in response to oscillatory inputs in networks of electrically coupled nodes: Gap junction networks and spatially extended neurons." </p> <i>(Submitted)</i></li>
+<li><p style = "test-align:justify;">Bel, A., Chialva, U. & Rotstein, H. "Frequency-dependent coupling in response to oscillatory inputs in networks of electrically coupled nodes: Gap junction networks and spatially extended neurons".  <i>(Submitted)</i></p></li>
 </ul>
 
 <strong>Publications and Proceedings:</strong>
