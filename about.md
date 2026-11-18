@@ -10,7 +10,7 @@ I am a Professor and Researcher in the [Department of Mathematics](https://www.m
 
 ### Students
 
-I supervise undergraduate and graduate students in computational neuroscience and applied dynamical systems. If you are looking for a thesis topic or a first research project, I have three ready-to-start projects on neuronal network dynamics, synaptic models, and ionic imbalances in rhythm generation. [See the projects and how to apply →](https://uliseschialva.github.io/students/)
+I supervise undergraduate and graduate students in computational neuroscience and applied dynamical systems. If you are looking for a thesis topic or a first research project, I have three ready-to-start projects on neuronal dynamics. [See the projects and how to apply →](https://uliseschialva.github.io/students/)
 
 ### Contact
 
