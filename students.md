@@ -9,7 +9,7 @@ Undergraduate and graduate research projects in computational neuroscience and a
 
 ## Qué buscamos
 
-Los proyectos están abiertos a estudiantes de **matemática, física, química, informática y biología**. No hace falta un perfil único: lo que más pesa es estar dispuesto a pensar fuera de lo convencional, a cruzar disciplinas y a aprender las herramientas que el proyecto necesite.
+Los proyectos están abiertos a estudiantes de **matemática, física, química, informática y biología**. No hace falta un perfil único: lo que más pesa es estar dispuesto a pensar fuera de lo convencional, cruzar disciplinas y aprender las herramientas que el proyecto necesite.
 
 ## Introducción a la neurociencia computacional
 
