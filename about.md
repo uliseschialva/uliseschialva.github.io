@@ -15,4 +15,5 @@ I supervise undergraduate and graduate students in computational neuroscience an
 ### Contact
 
 [uchialva@gmail.com](mailto:uchialva@gmail.com)
- Oficina 5/ Depto. de Matemática – 2°piso Alem
+
+Office 5, Departamento de Matemática, 2nd floor, Alem 1253, Bahía Blanca, Argentina.
