@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /research/
 ---
-
+## Research areas
 <p  style="text-indent: 20px; text-align: justify;"><strong> Spatial filtering of information in the hippocampal pyramidal neuron's CA1 region:</strong>  Specifically, we investigate the relationship between the cell's geometry and its ability to transmit signals. By analyzing the biophysical resonant mechanisms that can be supported by the spatial structure of the neuron, we aim to gain a better understanding of how this structure influences the processing and transmission of information within the brain. </p>
 
 <p  style="text-indent: 20px; text-align: justify;"><strong>Dynamic properties of inhibitory networks:</strong> this line of research focuses on the dynamical properties of inhibitory neural mass models, with the aim of understanding how different types of inputs can be modeled in these types of systems and trying to identify new types of dynamic mechanisms that regulate the activity of neuron populations.</p>
