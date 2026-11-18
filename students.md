@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Publications and Talks
+title: Students Projects
 permalink: /students/
 ---
-<strong>Proyectos</strong>
+<strong>Projects</strong>
+<p>Undergraduate and graduate research projects in computational neuroscience and applied dynamical systems. Descriptions are in Spanish.</p>
 
-<h1>Proyectos de investigación</h1>
 <h2>Introducción a la neurociencia computacional</h2>
 
 <section class= "proyecto">
-    <p> El objetivo de estas tres propuestas es aportar a estudiantes de grado la posibilidad de desarrollar un proyecto de investigación original de carácter introductorio
-        dentro de la neurociencia computacional. Cualquiera de los proyectos puede desarrollarse como propuesta para una beca, trabajo final de carrera, presentación a congreso, desarrollo de portafolio, o pasantı́a (si resulta reglamentariamente posible).
-La duración y profundidad de la propuesta estará sujeta al interés y necesidad del estudiante. Si es necesario, el estudiante será formalmente incorporado como “alumno” o “tesista” al grupo.</p>
+    <p> El objetivo de estas tres propuestas es aportar a estudiantes de grado la posibilidad de desarrollar un proyecto de investigación original de carácter introductorio dentro de la neurociencia computacional. Cualquiera de los proyectos puede desarrollarse como propuesta para una beca, trabajo final de carrera, presentación a congreso, desarrollo de portafolio, o pasantı́a (si resulta reglamentariamente posible). La duración y profundidad de la propuesta estará sujeta al interés y necesidad del estudiante. Si es necesario, el estudiante será formalmente incorporado como “alumno” o “tesista” al grupo.</p>
 </section>
 
 <section class="proyecto">
