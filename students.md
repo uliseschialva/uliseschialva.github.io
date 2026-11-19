@@ -5,7 +5,7 @@ permalink: /students/
 ---
 
 ## Students
-Undergraduate and graduate research projects in computational neuroscience and applied dynamical systems. Descriptions are in Spanish.
+Undergraduate and graduate research projects in computational neuroscience and applied dynamical systems. <em>Descriptions are in Spanish</em>.
 
 ## Qué buscamos
 
