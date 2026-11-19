@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 
-permalink:
 ---
 
 Can biological systems be understood from incomplete or noisy data? That question drives my research.
